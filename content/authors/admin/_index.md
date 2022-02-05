@@ -28,9 +28,6 @@ education:
   - course: BS Economics
     institution: Pontificia Universidad Católica del Perú
     year: 2021
-  #- course: Diploma of Specialization in Data Science for Social Sciences 
-  #  institution: Pontificia Universidad Católica del Perú
-  #  year: 2022
 
 
 # Social/Academic Networking
