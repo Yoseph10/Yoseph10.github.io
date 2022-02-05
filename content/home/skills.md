@@ -26,7 +26,7 @@ feature:
   name: R
 - description: "Econometrics"
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: Stata
 - description: Causal Inference and Machine Learning
   icon: chart-line
