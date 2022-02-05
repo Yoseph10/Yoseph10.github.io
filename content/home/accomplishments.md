@@ -36,8 +36,8 @@ item:
   date_start: "2021-04-21"
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
-  organization_url: https://www.udemy.com/
-  title: Web Scraping In Python: Master The Fundamentals
+  organization_url: https://www.edx.org
+  title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #- certificate_url: https://www.datacamp.com
 #  date_end: "2020-12-21"
