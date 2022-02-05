@@ -31,7 +31,7 @@ item:
   organization_url: https://www.pucp.edu.pe/
   title: Diploma of Specialization in Data Science for Social Sciences and Public Management
   url: ""
-- certificate_url: https://www.udemy.com/certificate/UC-a5a1d049-117d-40db-8b06-748458d8d0a4/
+- certificate_url: ""
   date_end: ""
   date_start: "2021-04-21"
   description: ""
