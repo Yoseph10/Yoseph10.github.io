@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle: Programming
+subtitle: 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -20,18 +20,19 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: "Dashboards and Machine Learning"
+- description: "Dashboards"
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: "Econometrics"
+  icon: database
+  icon_pack: fab
+  name: Stata
+- description: Causal Inference and Machine Learning
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Analytics
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
