@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-columbia
     location: ''
-    date_start: '2021-01-01'
+    date_start: '2021-12-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -40,9 +40,18 @@ experience:
     company: Pontificia Universidad Católica del Perú 
     company_url: ''
     company_logo: pucp
-    location: California
+    location: ''
     date_start: '2022-01-01'
     date_end: ''
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Research Assistant
+    company: Public Ministry of Perú 
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: '2021-08-01'
+    date_end: '2021-12-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
