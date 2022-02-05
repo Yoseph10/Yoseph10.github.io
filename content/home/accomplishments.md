@@ -31,14 +31,14 @@ item:
   organization_url: https://www.pucp.edu.pe/
   title: Diploma of Specialization in Data Science for Social Sciences and Public Management
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
   date_start: "2021-04-21"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  organization: Udemy
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: ""
 #- certificate_url: https://www.datacamp.com
 #  date_end: "2020-12-21"
 #  date_start: "2020-07-01"
