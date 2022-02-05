@@ -36,7 +36,7 @@ item:
   date_start: "2021-04"
   description: ""
   organization: Udemy
-  organization_url: https://www.udemy.com
+  organization_url: https://www.udemy.com/
   title: Web Scraping in Python: Master The Fundamentals
   url: ""
 
