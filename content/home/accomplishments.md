@@ -37,7 +37,7 @@ item:
   description: ""
   organization: Udemy
   organization_url: https://www.edx.org
-  title: Web Scraping in Python: Master The Fundamentals
+  title: Web Scraping in Python Master The Fundamentals
   url: ""
 #- certificate_url: https://www.datacamp.com
 #  date_end: "2020-12-21"
