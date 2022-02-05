@@ -43,7 +43,7 @@ experience:
     location: ''
     date_start: '2022-01-01'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught .
     
   - title: Research Assistant
     company: Public Ministry of Perú 
