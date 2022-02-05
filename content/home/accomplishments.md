@@ -28,7 +28,7 @@ item:
   date_start: "2021-01-25"
   description: ""
   organization: Pontificia Universidad Católica del Perú
-  organization_url: https://www.coursera.org
+  organization_url: https://qlab.pucp.edu.pe/
   title: Diploma of Specialization in Data Science for Social Sciences and Public Management
   url: ""
 - certificate_url: https://www.edx.org
