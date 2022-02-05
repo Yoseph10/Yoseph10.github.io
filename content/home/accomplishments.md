@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2022-07"
+  date_start: "2022-07-01"
   description: ""
   organization: Pontificia Universidad Católica del Perú
   organization_url: https://www.pucp.edu.pe/
