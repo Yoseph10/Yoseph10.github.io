@@ -25,7 +25,7 @@ experience:
   - title: Research Consultant
     company: Columbia University in The City of New York
     company_url: ''
-    company_logo: ''
+    company_logo: org-columbia
     location: ''
     date_start: '2021-01-01'
     date_end: ''
