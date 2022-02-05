@@ -39,7 +39,7 @@ experience:
   - title: Part-Time Teacher
     company: Pontificia Universidad Católica del Perú 
     company_url: ''
-    company_logo: org-x
+    company_logo: pucp
     location: California
     date_start: '2022-01-01'
     date_end: ''
