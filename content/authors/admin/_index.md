@@ -70,8 +70,5 @@ email: ""
 highlight_name: true
 ---
 
-I'm a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+I am a Research Assistant Consultant at the University of Chicago and a Partial Time Teacher at Pontificia Universidad Católica del Perú (PUCP). I got my bachelor's degree in Economics at PUCP. My research interests include Economics for Development, Microeconometrics, Causal Inference and Machine Learning.
 
