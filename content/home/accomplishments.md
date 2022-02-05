@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: ""
   date_end: ""
   date_start: "2022-07"
   description: ""
   organization: Pontificia Universidad Católica del Perú
-  organization_url: https://www.pucp.edu.pe
+  organization_url: ""
   title: Diploma of Specialization in Data Science for Social Sciences and Public Management
   url: ""
-- certificate_url: https://www.udemy.com/certificate/UC-a5a1d049-117d-40db-8b06-748458d8d0a4/
+- certificate_url: ""
   date_end: ""
   date_start: "2021-04"
   description: ""
   organization: Udemy
-#  organization_url: https://www.udemy.com
+  organization_url: ""
   title: Web Scraping in Python: Master The Fundamentals
   url: ""
-#- certificate_url: https://www.datacamp.com
-#  date_end: "2020-12-21"
-#  date_start: "2020-07-01"
-#  description: ""
-#  organization: DataCamp
-#  organization_url: https://www.datacamp.com
-#  title: 'Object-Oriented Programming in R'
-#  url: ""
+- certificate_url: https://www.datacamp.com
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R'
+  url: ""
 
 design:
   columns: '2' 
