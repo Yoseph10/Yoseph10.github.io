@@ -25,10 +25,10 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2022-07"
   description: ""
   organization: Pontificia Universidad Católica del Perú
-  organization_url: https://qlab.pucp.edu.pe/
+  organization_url: https://www.pucp.edu.pe/
   title: Diploma of Specialization in Data Science for Social Sciences and Public Management
   url: ""
 - certificate_url: https://www.edx.org
