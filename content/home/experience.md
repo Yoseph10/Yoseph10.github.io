@@ -48,7 +48,7 @@ experience:
   - title: Research Assistant
     company: Public Ministry of Perú 
     company_url: ''
-    company_logo: ''
+    company_logo: org-ministerio_publico
     location: ''
     date_start: '2021-08-01'
     date_end: '2021-12-01'
