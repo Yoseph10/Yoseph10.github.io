@@ -28,7 +28,9 @@ education:
   - course: BS Economics
     institution: Pontificia Universidad Católica del Perú
     year: 2021
-
+  - course: BS Economics
+    institution: Pontificia Universidad Católica del Perú
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
