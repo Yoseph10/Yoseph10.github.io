@@ -31,12 +31,12 @@ item:
   organization_url: https://www.pucp.edu.pe/
   title: Diploma of Specialization in Data Science for Social Sciences and Public Management
   url: ""
-- certificate_url: ""
+- certificate_url: "https://www.udemy.com/certificate/UC-a5a1d049-117d-40db-8b06-748458d8d0a4/"
   date_end: ""
   date_start: "2021-04-21"
   description: ""
   organization: Udemy
-  organization_url: https://www.edx.org
+  organization_url: https://www.udemy.com/
   title: Web Scraping in Python Master The Fundamentals
   url: ""
 #- certificate_url: https://www.datacamp.com
