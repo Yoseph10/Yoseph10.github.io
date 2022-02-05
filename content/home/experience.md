@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Part-Time Teacher
+    company: Pontificia Universidad Católica del Perú 
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2022-01-01'
+    date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
