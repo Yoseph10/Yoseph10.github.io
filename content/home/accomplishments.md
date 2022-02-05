@@ -27,9 +27,9 @@ item:
   date_end: ""
   date_start: "2021-01-25"
   description: ""
-  organization: Coursera
+  organization: Pontificia Universidad Católica del Perú
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Diploma of Specialization in Data Science for Social Sciences and Public Management
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
