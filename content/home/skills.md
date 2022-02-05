@@ -16,6 +16,10 @@ subtitle: Programming
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: "Web Scraping"
+  icon: python
+  icon_pack: fab
+  name: Python
 - description: "Dashboards and Machine Learning"
   icon: r-project
   icon_pack: fab
