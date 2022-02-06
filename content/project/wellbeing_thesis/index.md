@@ -1,5 +1,5 @@
 ---
-title: Multidimensional Wellbeing Peru
+title: Multidimensional Wellbeing in Peru
 summary: This repository provides the codes I created for my bachelor thesis called Assessing multidimensional well-being in Peru, An empirical operationalization of the capabilities approach through the estimation of Multiple Indicator and Multiple Cause Models . I used Survey on Multidimensional Wellbeing. This dataset was provided by Instituto de Desarrollo Humano de America Latina (IDHAL-PUCP).
 tags:
 - Papers
