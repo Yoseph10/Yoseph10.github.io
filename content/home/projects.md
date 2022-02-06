@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Papers
+    tag: Papers
   - name: Python 
     tag: Python
   - name: R
