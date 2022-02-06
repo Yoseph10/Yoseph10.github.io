@@ -1,10 +1,9 @@
 ---
-title: Dashboards in R with Shiny
-
-subtitle: This repository is for Creating Dashboards with R course that I've taught at Pontifical University Catholic of Peru (PUCP)
+title: Dashboards in R with R
+subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: This repository is for Creating Dashboards with R course that I've taught at Pontifical University Catholic of Peru (PUCP)
+summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Link this post with a project
 projects: []
@@ -31,16 +30,16 @@ image:
 
 authors:
 - admin
-
+- 吳恩達
 
 tags:
 - Academic
-#- 开源
+- 开源
 
-#categories:
-#- Demo
-#- 教程
-#---
+categories:
+- Demo
+- 教程
+---
 
 ## Overview
 
