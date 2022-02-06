@@ -1,9 +1,9 @@
 ---
-title: Dashboards in R with Shiny
-subtitle: This repository is for Creating Dashboards with R course that I've taught at Pontifical University Catholic of Perú (PUCP).
+title: Machine Learning with R
+subtitle: This repository is for Machine Learning with R course that I've taught at Pontifical University Catholic of Perú (PUCP).
 
 # Summary for listings and search engines
-summary: This repository is for Creating Dashboards with R course that I've taught at Pontifical University Catholic of Perú (PUCP).
+summary: This repository is for Machine Learning with R course that I've taught at Pontifical University Catholic of Perú (PUCP)
 
 # Link this post with a project
 projects: []
@@ -43,7 +43,7 @@ tags:
 
 ## Get Started
 
-- 👉 [**Github Repository**](https://github.com/Yoseph10/Dashboards_R_PUCP/)
+- 👉 [**Github Repository**](https://github.com/Yoseph10/ML_QLAB_PUCP/)
 
 
 ## Overview
