@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Academic Awards'
+title: 'Academic Achievements'
 subtitle:
 
 # Date format
@@ -25,20 +25,20 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2022-07-01"
-  description: ""
+  date_start: "2022-03-01"
+  description: "First-class honors. Rank in the Economics Department: 1 out of 81. Rank in the Faculty of Social Sciences: 1 out of 142."
   organization: Pontificia Universidad Católica del Perú
   organization_url: https://www.pucp.edu.pe/
-  title: Diploma of Specialization in Data Science for Social Sciences and Public Management
+  title: Award for Academic Excellence
   url: ""
   
 - certificate_url: ""
   date_end: ""
-  date_start: "2022-07-01"
-  description: ""
-  organization: Pontificia Universidad Católica del Perú
-  organization_url: https://www.pucp.edu.pe/
-  title: Diploma of Specialization in Data Science for Social Sciences and Public Management
+  date_start: "2016-07-01"
+  description: "Scholarship for academic excellence"
+  organization: Programa Nacional de Becas y Crédito Educativo 
+  organization_url: https://www.gob.pe/pronabec/
+  title: Undergraduate Scholarship
   url: ""
   
 #- certificate_url: "https://www.udemy.com/certificate/UC-a5a1d049-117d-40db-8b06-748458d8d0a4/"
