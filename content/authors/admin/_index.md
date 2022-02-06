@@ -70,5 +70,5 @@ email: ""
 highlight_name: true
 ---
 
-I am a Research Assistant Consultant at the University of Chicago and a Partial Time Teacher at Pontificia Universidad Católica del Perú (PUCP). I got my bachelor's degree in Economics at PUCP. My research interests include Economics for Development, Microeconometrics, Causal Inference and Machine Learning.
+I am a Research Assistant Consultant at the University of Columbia and a Partial Time Teacher at Pontificia Universidad Católica del Perú (PUCP). I got my bachelor's degree in Economics at PUCP. My research interests include Economics for Development, Microeconometrics, Causal Inference and Machine Learning.
 
