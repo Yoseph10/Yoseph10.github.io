@@ -28,9 +28,9 @@ education:
   - course: BS Economics
     institution: Pontificia Universidad Católica del Perú
     year: 2021
-  #- course: MEng in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  year: 2009
+  - course: Diploma of Specialization in Data Science for Social Sciences and Public Management
+    institution: Pontificia Universidad Católica del Perú
+    year: 2022
   #- course: BSc in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  year: 2008
