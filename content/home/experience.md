@@ -40,8 +40,12 @@ experience:
     location: ''
     date_start: '2022-01-01'
     date_end: ''
-    description: Taught .
+    description:|2-
     
+        * Machine Learning for Social Science
+        * Advanced Applied Econometrics
+
+
   - title: Research Assistant
     company: Public Ministry of Perú 
     company_url: ''
@@ -49,7 +53,10 @@ experience:
     location: ''
     date_start: '2021-08-01'
     date_end: '2021-12-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+    
+        * Analysis of different Peruvian databases 
+        * Quantitative evidence for decision-making in public policies
 
 design:
   columns: '2'
