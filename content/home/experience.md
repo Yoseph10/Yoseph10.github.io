@@ -30,11 +30,8 @@ experience:
     date_start: '2021-12-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    
+        * Research Assistant for Professors Michael Best (Columbia), Jonas Hjort (UCL) and Gaston Pierri (IADB)
         
   - title: Part-Time Teacher
     company: Pontificia Universidad Católica del Perú 
