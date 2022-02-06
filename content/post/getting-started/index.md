@@ -1,9 +1,9 @@
 ---
-title: Dashboards in R with R
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Dashboards in R with Shiny
+subtitle: This repository is for Creating Dashboards with R course that I've taught at Pontifical University Catholic of Perú (PUCP).
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: This repository is for Creating Dashboards with R course that I've taught at Pontifical University Catholic of Perú (PUCP).
 
 # Link this post with a project
 projects: []
