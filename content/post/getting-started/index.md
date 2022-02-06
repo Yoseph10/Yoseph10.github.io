@@ -5,9 +5,6 @@ subtitle: This repository is for Creating Dashboards with R course that I've tau
 # Summary for listings and search engines
 summary: This repository is for Creating Dashboards with R course that I've taught at Pontifical University Catholic of Perú (PUCP).
 
-- 👉 [**Create a new site**](https://github.com/Yoseph10/Dashboards_R_PUCP)
-
-
 # Link this post with a project
 projects: []
 
