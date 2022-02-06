@@ -38,7 +38,7 @@ item:
   description: "Scholarship for academic excellence"
   organization: Programa Nacional de Becas y Crédito Educativo 
   organization_url: https://www.gob.pe/pronabec/
-  title: Undergraduate Scholarship
+  title: Undergraduate Scholarship - Beca 18
   url: ""
   
 #- certificate_url: "https://www.udemy.com/certificate/UC-a5a1d049-117d-40db-8b06-748458d8d0a4/"
