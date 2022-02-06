@@ -1,12 +1,12 @@
 ---
-title: Example Project
+title: Example Project 10
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/Yoseph10/Yoseph10.github.io/blob/main/content/home/programming.md"
 
 image:
   caption: Photo by rawpixel on Unsplash
