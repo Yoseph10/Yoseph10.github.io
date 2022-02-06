@@ -43,7 +43,7 @@ tags:
 
 ## Get Started
 
-- 👉 [**Github Repository**](https://wowchemy.com/templates/)
+- 👉 [**Github Repository**](https://github.com/Yoseph10/Dashboards_R_PUCP/)
 
 
 ## Overview
