@@ -40,7 +40,7 @@ experience:
     location: ''
     date_start: '2022-01-01'
     date_end: ''
-    description:|2-
+    description: |2-
     
         * Machine Learning for Social Science
         * Advanced Applied Econometrics
