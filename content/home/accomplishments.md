@@ -27,6 +27,7 @@ item:
   date_end: ""
   date_start: "2022-07-01"
   description: ""
+  company_logo: org-columbia
   organization: Pontificia Universidad Católica del Perú
   organization_url: https://www.pucp.edu.pe/
   title: Diploma of Specialization in Data Science for Social Sciences and Public Management
