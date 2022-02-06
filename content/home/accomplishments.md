@@ -26,7 +26,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2022-03-01"
-  description: "First-class honors. Rank in the Economics Department: 1 out of 81. Rank in the Faculty of Social Sciences: 1 out of 142."
+  description: "First-class honors. Rank in the Economics Department: 1 out of 81. Rank in the Faculty of Social Sciences: 1 out of 142"
   organization: Pontificia Universidad Católica del Perú
   organization_url: https://www.pucp.edu.pe/
   title: Award for Academic Excellence
