@@ -30,7 +30,27 @@ image:
 # slides: thesis_wellbeing
 ---
 
-**SUMMARY: **
+
+authors:
+- admin
+
+
+tags:
+- Academic
+- Data Science
+
+#categories:
+#- Demo
+#- 教程
+---
+
+**CODING AND PAPER**
+
+- 👉 [**Github Repository**](https://github.com/Yoseph10/Multidimensional_Wellbeing_Peru/)
+- 👉 [**Paper Publication**](https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/21560)
+
+
+**SUMMARY:**
 
 This study evaluates the multidimensional well-being of people over 18 years old in Peru through an empirical operationalization of the capabilities approach by Amartya Sen. Specifically, this study makes use of models of Multiple Indicators and Multiple Causes (MIMIC), which recognize the nature of the capabilities as latent variables, to estimate a set of five capabilities: “Sociability”, “Agency/Empowerment”, “Citizenship”, “Safety” and “Health”. The data used come from the Survey on Multidimensional Well-being carried out in 2018 by the Institute of Public Opinion (IOP-PUCP) and the Institute of Human Development of Latin America (IDHAL-PUCP). 
 
