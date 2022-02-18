@@ -34,4 +34,5 @@ This study evaluates the multidimensional well-being of people over 18 years old
 
 The main results show that men are better off than women in all the capabilities and that people living in urban areas are in a better situation than those who live in rural areas in all capabilities except of the “Security” capability. In line with the above, the results of the joint analysis of capabilities shows that men are in a better situation than women in terms of multidimensional well-being and that urban people are better in multidimensional  well-being than those who live in rural areas. If we do not include “Security” in the joint analysis of capabilities, the urban-rural gap in multidimensional well-being increases.
 
-Keywords: multidimensional well-being, capability approach, Models of Multiple Indicators and Multiple Causes (MIMIC), gender/rural gaps, Peru
+
+**Keywords:** multidimensional well-being, capability approach, Models of Multiple Indicators and Multiple Causes (MIMIC), gender/rural gaps, Peru
