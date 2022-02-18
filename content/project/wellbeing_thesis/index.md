@@ -30,25 +30,11 @@ image:
 # slides: thesis_wellbeing
 ---
 
-
-authors:
-- admin
-
-
-tags:
-- Academic
-- Data Science
-
-#categories:
-#- Demo
-#- 教程
----
-
-**CODING AND PAPER**
+**ONLINE RESOURCES**
 
 - 👉 [**Github Repository**](https://github.com/Yoseph10/Multidimensional_Wellbeing_Peru/)
-- 👉 [**Paper Publication**](https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/21560)
-
+- 👉 [**Paper Publication (Spanish)**](https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/21560)
+- 👉 [**PPT Presentation (Spanish)**](https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/21560)
 
 **SUMMARY:**
 
