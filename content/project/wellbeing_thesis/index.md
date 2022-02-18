@@ -30,24 +30,8 @@ image:
 slides: example
 ---
 
-This study evaluates the multidimensional well-being of people over 18 years of age
-in Peru through an empirical operationalization of the capabilities approach
-by Amartya Sen. Specifically, this study makes use of models of Multiple
-Indicators and Multiple Causes (MIMIC), which recognize the nature of the
-as latent capabilities variables, to estimate a set of five capabilities:
-“Sociability”, “Agency/Empowerment”, “Citizenship”, “Safety” and “Health”. The
-data used come from the Survey on Multidimensional Well-being carried out
-carried out in 2018 by the Institute of Public Opinion (IOP-PUCP) and the Institute of
-Human Development of Latin America (IDHAL-PUCP). The main results
-show that men are better off than women in
-all the skills and abilities that people living in urban areas have
-in a better situation than those who live in rural areas in all of them except
-of the “Security” capacity. In line with the above, the results of the analysis
-sample set that men abilities are in a better
-situation than women in terms of multidimensional well-being and that women
-people who live in urban areas are better in well-being
-multidimensional than those who live in rural areas. If we do not include “Security” in
-the joint analysis of capacities, the urban-rural gap in well-being
-increases multidimensional.
-Keywords: multidimensional well-being, capabilities approach, Models of
-Multiple Indicators and Multiple Causes (MIMIC), gaps, Peru
+This study evaluates the multidimensional well-being of people over 18 years old in Peru through an empirical operationalization of the capabilities approach by Amartya Sen. Specifically, this study makes use of models of Multiple Indicators and Multiple Causes (MIMIC), which recognize the nature of the capabilities as latent variables, to estimate a set of five capabilities: “Sociability”, “Agency/Empowerment”, “Citizenship”, “Safety” and “Health”. The data used come from the Survey on Multidimensional Well-being carried out in 2018 by the Institute of Public Opinion (IOP-PUCP) and the Institute of Human Development of Latin America (IDHAL-PUCP). 
+
+The main results show that men are better off than women in all the capabilities and that people living in urban areas are in a better situation than those who live in rural areas in all capabilities except of the “Security” capability. In line with the above, the results of the joint analysis of capabilities shows that men are in a better situation than women in terms of multidimensional well-being and that urban people are better in multidimensional  well-being than those who live in rural areas. If we do not include “Security” in the joint analysis of capabilities, the urban-rural gap in multidimensional well-being increases.
+
+Keywords: multidimensional well-being, capability approach, Models of Multiple Indicators and Multiple Causes (MIMIC), gender/rural gaps, Peru
