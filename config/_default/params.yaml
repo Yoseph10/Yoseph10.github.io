@@ -31,8 +31,8 @@ address:
   country: Perú
   country_code: 
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '-12.134471'  
+  longitude: '-77.016368'
 directions: 
 #office_hours:
  # - 'Monday 10:00 to 13:00'
@@ -60,7 +60,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: r
+  align: l
   show_logo: true
   show_language: false
   show_day_night: true
@@ -142,7 +142,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'google'
   api_key: ''
   zoom: 15
 marketing:
