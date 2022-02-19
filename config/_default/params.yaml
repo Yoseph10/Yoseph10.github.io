@@ -30,8 +30,8 @@ address:
   country: Perú
   country_code: 
 coordinates:
-  latitude: '-12.134497'  
-  longitude: '-77.016702'
+  latitude: '37.4275'
+  longitude: '-122.1697'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
  # - 'Monday 10:00 to 13:00'
