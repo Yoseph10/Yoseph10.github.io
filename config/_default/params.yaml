@@ -41,11 +41,11 @@ directions:
 contact_links:
   - icon: linkedin
     icon_pack: fab
-    name: DM Me
-    link: 'linkedin.com/in/yoseph-daniel-ayala-valencia-9863521b0'
+    name: Send me a message
+    link: 'https://www.linkedin.com/in/yoseph-daniel-ayala-valencia-9863521b0/'
   - icon: facebook
     icon_pack: fab
-    name: DM Me
+    name: Send me a message
     link: 'https://web.facebook.com/YosephAyalaValencia' 
  # - icon: keybase
  #   icon_pack: fab
