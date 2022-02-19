@@ -28,6 +28,9 @@ education:
   - course: BS Economics
     institution: Pontificia Universidad Católica del Perú
     year: 2021
+  - course: Licentiate Economics
+    institution: Pontificia Universidad Católica del Perú
+    year: 2022
   - course: Diploma of Specialization in Data Science for Social Sciences and Public Policy
     institution: Pontificia Universidad Católica del Perú
     year: 2022
