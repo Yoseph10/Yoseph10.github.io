@@ -21,12 +21,12 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: yoseph.ayala@pucp.edu.pe
-phone: +51 972 026 534
+# phone: +51 972 026 534
 
 address:
   street: Eduardo Astete Mendoza
   city: Lima
-  region: PE
+  region: 
   postcode:
   country: Perú
   country_code: 
@@ -39,14 +39,14 @@ directions:
   #- 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
- # - icon: twitter
- #   icon_pack: fab
- #   name: DM Me
- #   link: 'https://twitter.com/Twitter'
- # - icon: skype
- #   icon_pack: fab
- #   name: Skype Me
- #   link: 'skype:echo123?call'
+  - icon: linkedin
+    icon_pack: fab
+    name: DM Me
+    link: 'linkedin.com/in/yoseph-daniel-ayala-valencia-9863521b0'
+  - icon: facebook
+    icon_pack: fab
+    name: DM Me
+    link: 'https://web.facebook.com/YosephAyalaValencia' 
  # - icon: keybase
  #   icon_pack: fab
  #   name: Chat on Keybase
