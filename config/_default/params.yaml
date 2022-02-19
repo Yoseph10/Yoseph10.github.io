@@ -22,13 +22,25 @@ twitter: ''
 
 email: yoseph.ayala@pucp.edu.pe
 #phone: +51 972 026 534
+
+#address:
+ # street: Eduardo Mendoza
+  #city: Lima
+  #region: PE
+  #postcode:
+  #country: Perú
+  #country_code: 
+#coordinates:
+ # latitude: '37.4275'
+  #longitude: '-122.1697'
+  
 address:
-  street: 
-  city: Lima
-  region: PE
-  postcode:
-  country: Perú
-  country_code: 
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
+  country_code: US
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
