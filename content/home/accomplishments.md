@@ -23,13 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "https://drive.google.com/file/d/1QTjFJ48biRXwiPpDGIflU0yhePsJu2eL/view?usp=sharing"
+- certificate_url: ""
   date_end: ""
-  date_start: "2022-03-01"
-  description: "First-class honors. Rank in the Economics Department: 1 out of 81. Rank in the Faculty of Social Sciences: 1 out of 142"
+  date_start: "2022-02-01"
+  description: "Thesis approved unanimously with the outstanding mention"
   organization: Pontificia Universidad Católica del Perú
   organization_url: https://www.pucp.edu.pe/
-  title: Award for Academic Excellence
+  title: Licentiate Economics with Honors
+  url: ""
+  
+- certificate_url: "https://drive.google.com/file/d/1QTjFJ48biRXwiPpDGIflU0yhePsJu2eL/view?usp=sharing"
+  date_end: ""
+  date_start: "2021-08-01"
+  description: "First Class Honors. Rank in the Economics Department: 1 out of 70. Rank in the Faculty of Social Sciences: 1 out of 142"
+  organization: Pontificia Universidad Católica del Perú
+  organization_url: https://www.pucp.edu.pe/
+  title: Award for Academic Excellence - First Class Honors 
   url: ""
   
 - certificate_url: ""
