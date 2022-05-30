@@ -34,7 +34,7 @@ image:
 
 - 👉 [**Github Repository**](https://github.com/Yoseph10/Multidimensional_Wellbeing_Peru/)
 - 👉 [**Paper Publication (Spanish)**](https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/21560)
-- 👉 [**PPT Presentation (Spanish)**](https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/21560)
+- 👉 [**PPT Presentation (Spanish)**](https://docs.google.com/presentation/d/1097h77CFXOI-LL_XQahZn_lW5rGnCJIr/edit?usp=sharing&ouid=113104618138125098034&rtpof=true&sd=true)
 
 **SUMMARY:**
 
