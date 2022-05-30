@@ -29,12 +29,14 @@ content:
   #  tag: '*'
   - name: Papers
     tag: Papers
-  - name: Python 
-    tag: Python
   - name: R
     tag: R
-  - name: Stata
-    tag: Stata
+  - name: Python 
+    tag: Python
+  - name: Econometrics
+    tag: Eco
+  - name: Machine Learning
+    tag: ML
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
