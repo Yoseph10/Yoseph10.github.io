@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Recent Experience
 subtitle:
 
 # Date format for experience
@@ -31,7 +31,8 @@ experience:
     date_end: ''
     description: |2-
     
-        * Research Assistant for Professors Michael Best (Columbia), Jonas Hjort (UCL) and Gaston Pierri (IADB)
+        * Working on a randomized controlled trial and a Machine Learning algorithm for reducing corruption
+        * Research Consultant for Professors Michael Best (Columbia), Jonas Hjort (UCL) and Gaston Pierri (IADB)
         
   - title: Part-Time Teacher
     company: Pontificia Universidad Católica del Perú 
@@ -39,11 +40,11 @@ experience:
     company_logo: pucp
     location: ''
     date_start: '2022-01-01'
-    date_end: ''
+    date_end: '2022-03-01'
     description: |2-
     
-        * Machine Learning for Social Science
-        * Advanced Applied Econometrics
+        * Machine Learning for Social Science: linear models, nonlinear models and deep learning 
+        * Advanced Applied Econometrics:  causal inference methods and causal machine learning
 
 
   - title: Research Assistant
