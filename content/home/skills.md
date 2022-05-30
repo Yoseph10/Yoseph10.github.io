@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Top Skills
+title: Skills
 subtitle: 
 
 # Showcase personal skills or business features.
@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: Stata
 - description: "Linux commands"
-  icon: linux
+  icon: fa-linux
   icon_pack: fas
   name: Linux
 - description: Causal Inference and Machine Learning
