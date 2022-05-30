@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: Stata
 - description: "Linux commands"
-  icon: ubuntu
+  icon: Linux
   icon_pack: fas
   name: Linux
 - description: Causal Inference and Machine Learning
