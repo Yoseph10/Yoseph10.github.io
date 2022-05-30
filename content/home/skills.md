@@ -24,7 +24,11 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: "Econometrics"
+- description: "Git commands"
+  icon: git-alt
+  icon_pack: fab
+  name: Git/GitHub
+- description: "Git/GitHub"
   icon: database
   icon_pack: fas
   name: Stata
