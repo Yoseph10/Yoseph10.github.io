@@ -1,12 +1,12 @@
 ---
-title: Dashboards
+title: Dashboards QLAB
 summary: Here you'll find two dashboards I created for QLAB-PUCP. 
 tags:
 - R
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/Yoseph10/RA_QLAB_PUCP/tree/main/Dashboards"
+external_link: "https://github.com/Yoseph10/RA_QLAB_PUCP"
 
 image:
   caption: Photo by rawpixel on Unsplash
